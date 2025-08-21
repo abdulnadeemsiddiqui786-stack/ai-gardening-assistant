@@ -8,7 +8,7 @@ import cv2
 import torch
 
 # Google Gemini API setup
-genai.configure(api_key="AIzaSyDODWuZj0Xd8RK4QFPqP4Wttze7Zoyyx6g")
+genai.configure(api_key="AIzaSyB7FnTT7mkSoxe-yqqMjZQ1QVNLkamfMOE")
 model = genai.GenerativeModel("gemini-1.0-pro")
 chat = model.start_chat(history=[])
 
