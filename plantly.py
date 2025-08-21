@@ -94,7 +94,7 @@ set_background_image("342a4a4b-d389-4862-907c-44d1f1de5239.jpg")
 
 # Title
 st.markdown(
-    "<h1 style='text-align: center; color: white; font-weight: bold;'>🌿 Home Gardening AI Assistant 🌼</h1>",
+    "<h1 style='text-align: center; color: Black; font-weight: bold;'>🌿 Home Gardening AI Assistant 🌼</h1>",
     unsafe_allow_html=True
 )
 
