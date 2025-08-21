@@ -86,7 +86,7 @@ if 'query_response' not in st.session_state:
     st.session_state.query_response = None
 
 # Streamlit UI
-set_background_image("bg (1).png")
+set_background_image("342a4a4b-d389-4862-907c-44d1f1de5239.jpg")
 
 st.markdown("<h1 style='text-align: center; color: white; font-weight: bold;'>🌿 Home Gardening AI Assistant 🌼</h1>", unsafe_allow_html=True)
 
